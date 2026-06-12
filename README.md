@@ -14,4 +14,5 @@ So much for single-step selection of random variation. What about cumulative sel
 <br><br>
 It now 'breeds from' this random phrase. It duplicates it repeatedly, but with a certain chance of random error 'mutation' in the copying. The computer examines the mutant nonsense phrases, the 'progeny' of the original phrase, and chooses the one which, however slightly, most resembles the target phrase.
 </blockquote>
+<br>
 This is a simple genetic algorithm, implementing Richard Dawkins' thought experiment. A key difference from the original is a drastically decreased mutation rate (one much more akin to real life, but still on the higher end).
